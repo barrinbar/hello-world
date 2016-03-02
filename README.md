@@ -1,2 +1,4 @@
 # hello-world
-My hello wordl repo
+
+My hello world repo
+If you read me thne you read the readme
